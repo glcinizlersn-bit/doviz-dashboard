@@ -31,4 +31,4 @@ Tarayıcıda `http://127.0.0.1:5000` adresini açın.
 
 ## 📸 Ekran Görüntüsü
 
-(Buraya ekran görüntüsü eklenecek)
+![Dashboard](doviz-dashborad.jpeg)
